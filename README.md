@@ -8,12 +8,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0f,25:312e81,50:7c3aed,75:c084fc,100:0a0a0f&section=header" width="100%"/>
 
-<img src="https://media.giphy.com/media/aAZXqHueGdUntFcKZC/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/aAZXqHueGdUntFcKZC/giphy.gif" width="120" />
 
 <img  src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d18,35:12082a,70:1e0a3c,100:0d0d18&height=100&text=NGUYEN%20DINH%20VAN&fontSize=64&fontColor=c084fc&fontAlignY=44&fontAlign=50&desc=Backend%20Engineer%20%E2%80%94%20C%23%20%2F%20.NET%20%2F%20Clean%20Architecture&descSize=17&descAlignY=90&descColor=e8e8f0&animation=fadeIn&stroke=c084fc&strokeWidth=2.5" width="100%"/>
 
 <div align="center">
-
 
 <br/>
 
@@ -54,7 +53,7 @@ public class Developer
 </td>
 <td width="44%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px; "/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%"  style="border-radius:12px; "/>
 
 </td>
 </tr>
@@ -72,43 +71,43 @@ public class Developer
 
 **— Backend & Infrastructure —**
 
-![C#](https://img.shields.io/badge/C%23-%23c084fc.svg?style=for-the-badge&logo=csharp&logoColor=0a0a0f)
-![.NET](https://img.shields.io/badge/ASP.NET_Core-%23818cf8.svg?style=for-the-badge&logo=dotnet&logoColor=0a0a0f)
-![Docker](https://img.shields.io/badge/Docker-%23c084fc.svg?style=for-the-badge&logo=docker&logoColor=0a0a0f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23818cf8.svg?style=for-the-badge&logo=postgresql&logoColor=0a0a0f)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23c084fc.svg?style=for-the-badge&logo=mongodb&logoColor=0a0a0f)
-![MySQL](https://img.shields.io/badge/MySQL-%23818cf8.svg?style=for-the-badge&logo=mysql&logoColor=0a0a0f)
-![AWS](https://img.shields.io/badge/AWS-%23c084fc.svg?style=for-the-badge&logo=amazonaws&logoColor=0a0a0f)
-![Linux](https://img.shields.io/badge/Linux-%23818cf8.svg?style=for-the-badge&logo=linux&logoColor=0a0a0f)
-![Git](https://img.shields.io/badge/Git-%23c084fc.svg?style=for-the-badge&logo=git&logoColor=0a0a0f)
+<img src="https://img.shields.io/badge/C%23-%23c084fc.svg?style=for-the-badge&logo=csharp&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-%23818cf8.svg?style=for-the-badge&logo=dotnet&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/Docker-%23c084fc.svg?style=for-the-badge&logo=docker&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23818cf8.svg?style=for-the-badge&logo=postgresql&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/MongoDB-%23c084fc.svg?style=for-the-badge&logo=mongodb&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/MySQL-%23818cf8.svg?style=for-the-badge&logo=mysql&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/AWS-%23c084fc.svg?style=for-the-badge&logo=amazonaws&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/Linux-%23818cf8.svg?style=for-the-badge&logo=linux&logoColor=0a0a0f&logoWidth=30" height="46"/>
+<img src="https://img.shields.io/badge/Git-%23c084fc.svg?style=for-the-badge&logo=git&logoColor=0a0a0f&logoWidth=30" height="46"/>
 
-<br/>
+<br/><br/>
 
 **— Languages I've worked with —**
 
-![C#](https://img.shields.io/badge/C%23-1a1a2e?style=flat-square&logo=csharp&logoColor=c084fc)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=818cf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=c084fc)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=818cf8)
-![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=flat-square&logo=kotlin&logoColor=c084fc)
-![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=818cf8)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=c084fc)
-![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=818cf8)
+<img src="https://img.shields.io/badge/C%23-1a1a2e?style=for-the-badge&logo=csharp&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=818cf8&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=818cf8&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Kotlin-1a1a2e?style=for-the-badge&logo=kotlin&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=818cf8&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=818cf8&logoWidth=28" height="42"/>
 
-<br/>
+<br/><br/>
 
 **— Frontend & Mobile —**
 
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=c084fc)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=818cf8)
-![Vue](https://img.shields.io/badge/Vue-1a1a2e?style=flat-square&logo=vuedotjs&logoColor=c084fc)
-![Angular](https://img.shields.io/badge/Angular-1a1a2e?style=flat-square&logo=angular&logoColor=818cf8)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=c084fc)
-![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=818cf8)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=flat-square&logo=springboot&logoColor=c084fc)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=818cf8)
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=c084fc)
-![Ethereum](https://img.shields.io/badge/Ethereum-1a1a2e?style=flat-square&logo=ethereum&logoColor=818cf8)
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=818cf8&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Vue-1a1a2e?style=for-the-badge&logo=vuedotjs&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Angular-1a1a2e?style=for-the-badge&logo=angular&logoColor=818cf8&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=818cf8&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1a1a2e?style=for-the-badge&logo=springboot&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=818cf8&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=c084fc&logoWidth=28" height="42"/>
+<img src="https://img.shields.io/badge/Ethereum-1a1a2e?style=for-the-badge&logo=ethereum&logoColor=818cf8&logoWidth=28" height="42"/>
 
 </div>
 
@@ -144,19 +143,14 @@ public class Developer
 
 <div align="center">
 
-<a href="https://github.com/PotatoMine725/DAPM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PotatoMine725&repo=DAPM&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=e8e8f0&border_radius=12" width="47%"/>
-</a>
-<a href="https://github.com/nguyendinhvan-dev/MartialArtsClubManagement">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhvan-dev&repo=MartialArtsClubManagement&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=e8e8f0&border_radius=12" width="47%"/>
-</a>
-
-<a href="https://github.com/nguyendinhvan-dev/NHOM_LAPGHEP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhvan-dev&repo=NHOM_LAPGHEP&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=e8e8f0&border_radius=12" width="47%"/>
-</a>
+| Project | Mô tả | Tech |
+|--------|-------|------|
+| [🏥 ClinicBooking](https://github.com/PotatoMine725/DAPM) | Hệ thống đặt lịch khám bệnh trực tuyến | `C#` `ASP.NET Core 8` `CQRS` `Clean Arch` |
+| [🥋 MartialArtsClub](https://github.com/nguyendinhvan-dev/MartialArtsClubManagement) | Quản lý câu lạc bộ võ thuật | `C#` `ASP.NET Core` `EF Core` `SQL Server` |
+| [📚 LibraryApp](https://github.com/nguyendinhvan-dev/NHOM_LAPGHEP) | App Android quản lý thư viện + Web admin | `Java` `Android` `Web Backend` |
 
 </div>
-
+<br/>
 ---
 
 <!-- ▓▓▓ QUOTE ▓▓▓ -->
@@ -185,11 +179,17 @@ public class Developer
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d18?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d18)](https://github.com/nguyendinhvan-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d18?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0d0d18)](https://www.linkedin.com/in/nguyendinhvan-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d18?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d18)](mailto:ngdivawn8888@gmail.com)
+<a href="https://github.com/nguyendinhvan-dev">
+  <img src="https://img.shields.io/badge/GitHub-0d0d18?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="50"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/nguyendinhvan-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d18?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0d0d18&logoWidth=30" height="50"/>
+</a>&nbsp;
+<a href="mailto:ngdivawn8888@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d0d18?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="50"/>
+</a>
 
-<br/>
+<br/><br/>
 
 ![Views](https://komarev.com/ghpvc/?username=nguyendinhvan-dev&color=c084fc&style=flat-square&label=profile+views)
 
