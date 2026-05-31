@@ -138,11 +138,22 @@ public class Developer
 
 ---
 
-<!-- ▓▓▓ TROPHIES ▓▓▓ -->
+<!-- ▓▓▓ PROJECTS ▓▓▓ -->
+
+### 〔 Featured Projects 〕
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=nguyendinhvan-dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6)
+<a href="https://github.com/PotatoMine725/DAPM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PotatoMine725&repo=DAPM&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=e8e8f0&border_radius=12" width="47%"/>
+</a>
+<a href="https://github.com/nguyendinhvan-dev/MartialArtsClubManagement">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhvan-dev&repo=MartialArtsClubManagement&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=e8e8f0&border_radius=12" width="47%"/>
+</a>
+
+<a href="https://github.com/nguyendinhvan-dev/NHOM_LAPGHEP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhvan-dev&repo=NHOM_LAPGHEP&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=e8e8f0&border_radius=12" width="47%"/>
+</a>
 
 </div>
 
