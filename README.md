@@ -190,13 +190,15 @@ public class Developer
 <div align="center">
 
 <a href="https://github.com/nguyendinhvan-dev">
-  <img src="https://img.shields.io/badge/GitHub-0d0d18?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/GitHub-1f1f2e?style=for-the-badge&logo=github&logoColor=ffffff" height="60"/>
 </a>&nbsp;
+
 <a href="https://www.linkedin.com/in/nguyendinhvan-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d18?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0d0d18&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1e40af?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="60"/>
 </a>&nbsp;
+
 <a href="mailto:ngdivawn8888@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d0d18?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=ffffff" height="60"/>
 </a>
 
 <br/><br/>
