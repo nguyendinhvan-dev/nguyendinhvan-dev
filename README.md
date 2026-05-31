@@ -121,7 +121,7 @@ public class Developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nguyendinhvan-dev&show_icons=true&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=e8e8f0&ring_color=c084fc&hide=issues,prs&border_radius=12&custom_title=nguyendinhvan-dev's+Stats" width="47%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nguyendinhvan-dev&hide_border=true&background=0d0d18&stroke=c084fc&ring=818cf8&fire=c084fc&currStreakLabel=c084fc&sideLabels=e8e8f0&dates=818cf8&sideNums=e8e8f0&currStreakNum=e8e8f0&border_radius=12" width="47%"/>
 
 </div>
