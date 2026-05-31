@@ -161,10 +161,14 @@ public class Developer
 
 <!-- ▓▓▓ QUOTE ▓▓▓ -->
 
+### 〔 Inspirational quote 〕
+
 <div align="left">
 
 
 <br/>
+
+
 
 *"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.*
 
