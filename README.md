@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0f,25:312e81,50:7c3aed,75:c084fc,100:0a0a0f&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0a0a0f,25:312e81,50:7c3aed,75:c084fc,100:0a0a0f&section=header" width="100%"/>
 
 <img src="https://media.giphy.com/media/aAZXqHueGdUntFcKZC/giphy.gif" width="120" />
 
@@ -135,7 +135,11 @@ public class Developer
 
 <br/>
 
+
+
+
 ---
+
 
 <!-- ▓▓▓ PROJECTS ▓▓▓ -->
 
@@ -151,13 +155,15 @@ public class Developer
 
 </div>
 <br/>
+
+
 ---
 
 <!-- ▓▓▓ QUOTE ▓▓▓ -->
 
-<div align="center">
+<div align="left">
 
-</div>
+
 <br/>
 
 *"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.*
@@ -166,7 +172,11 @@ public class Developer
 
 **Explore. Dream. Discover.**"*
 
-***— Mark Twain***
+</div>
+
+<div align="right">
+     
+**— Mark Twain**
 
 <br/>
 </div>
@@ -180,18 +190,20 @@ public class Developer
 <div align="center">
 
 <a href="https://github.com/nguyendinhvan-dev">
-  <img src="https://img.shields.io/badge/GitHub-0d0d18?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="50"/>
+  <img src="https://img.shields.io/badge/GitHub-0d0d18?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="60"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/nguyendinhvan-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d18?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0d0d18&logoWidth=30" height="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d18?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0d0d18&logoWidth=30" height="60"/>
 </a>&nbsp;
 <a href="mailto:ngdivawn8888@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d0d18?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="50"/>
+  <img src="https://img.shields.io/badge/Gmail-0d0d18?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d18&logoWidth=30" height="60"/>
 </a>
 
 <br/><br/>
 
-![Views](https://komarev.com/ghpvc/?username=nguyendinhvan-dev&color=c084fc&style=flat-square&label=profile+views)
+<img src="https://komarev.com/ghpvc/?username=nguyendinhvan-dev&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0d18" height="40"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-c084fc?style=for-the-badge&labelColor=0d0d18" height="40"/>
+<img src="https://img.shields.io/badge/BASED%20IN-DA%20NANG%20🇻🇳-818cf8?style=for-the-badge&labelColor=0d0d18" height="40"/>
 
 </div>
 
