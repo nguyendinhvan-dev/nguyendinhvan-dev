@@ -148,10 +148,10 @@ public class Developer
 
 | Project | Description | Tech Stack | Links |
 |----------|-------------|-------------|-------------|
-| 🧠 **AIFAS_SYSTEM**  | AI Fear Analytics System tích hợp **Data Warehouse**, **SSAS Data Mining**, **OLAP Analytics**, **ETL Pipeline** và **ASP.NET Core 8 Web API** để dự đoán mức độ lo ngại về AI từ dữ liệu khảo sát. | `C#` `.NET 8` `SQL Server` `SSAS` `SSIS` `MDX` `DMX` `HTML` `CSS` `JavaScript` |  💻 [Source](https://github.com/nguyendinhvan-dev/AIFAS_SYSTEM) |
-| 🏥 **ClinicBooking** | Hệ thống đặt lịch khám bệnh trực tuyến theo kiến trúc hiện đại, hỗ trợ quản lý lịch hẹn, bệnh nhân và quy trình khám chữa bệnh. | `C#` `ASP.NET Core 8` `CQRS` `Clean Architecture` | 💻 [Source](https://github.com/PotatoMine725/DAPM) |
-| 🥋 **MartialArtsClubManagement** | Hệ thống quản lý câu lạc bộ võ thuật gồm học viên, huấn luyện viên, lớp học, học phí, điểm danh và dashboard quản trị. | `C#` `ASP.NET Core` `EF Core` `SQL Server` | 💻 [Source](https://github.com/nguyendinhvan-dev/MartialArtsClubManagement) |
-| 📚 **LibraryApp** | Ứng dụng Android quản lý thư viện kết hợp Web Admin, hỗ trợ quản lý sách, mượn trả và tài khoản người dùng. | `Java` `Android` `Firebase` `Web Backend` | 💻 [Source](https://github.com/nguyendinhvan-dev/NHOM_LAPGHEP) |
+| **AIFAS_SYSTEM**  | AI Fear Analytics System tích hợp **Data Warehouse**, **SSAS Data Mining**, **OLAP Analytics**, **ETL Pipeline** và **ASP.NET Core 8 Web API** để dự đoán mức độ lo ngại về AI từ dữ liệu khảo sát. | `C#` `.NET 8` `SQL Server` `SSAS` `SSIS` `MDX` `DMX` `HTML` `CSS` `JavaScript` |  [Source](https://github.com/nguyendinhvan-dev/AIFAS_SYSTEM) |
+| **ClinicBooking** | Hệ thống đặt lịch khám bệnh trực tuyến theo kiến trúc hiện đại, hỗ trợ quản lý lịch hẹn, bệnh nhân và quy trình khám chữa bệnh. | `C#` `ASP.NET Core 8` `CQRS` `Clean Architecture` | [Source](https://github.com/PotatoMine725/DAPM) |
+| **MartialArtsClubManagement** | Hệ thống quản lý câu lạc bộ võ thuật gồm học viên, huấn luyện viên, lớp học, học phí, điểm danh và dashboard quản trị. | `C#` `ASP.NET Core` `EF Core` `SQL Server` | [Source](https://github.com/nguyendinhvan-dev/MartialArtsClubManagement) |
+| **LibraryApp** | Ứng dụng Android quản lý thư viện kết hợp Web Admin, hỗ trợ quản lý sách, mượn trả và tài khoản người dùng. | `Java` `Android` `Firebase` `Web Backend` | [Source](https://github.com/nguyendinhvan-dev/NHOM_LAPGHEP) |
 
 <br/>
 
